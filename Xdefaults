@@ -1,0 +1,4 @@
+XTerm*loginShell:true
+XTerm*geometry: 80x25
+XTerm*foreground:white
+XTerm*background:black
