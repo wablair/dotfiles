@@ -1,0 +1,6 @@
+# HP LaserJet 1200
+usb:lp=/dev/ulpt0:sd/var/spool/output:sf:sh:tr=:
+
+# HP Color LaserJet CP1518ni
+lp|hp|HP Deskjet 5550:lp=/dev/ulpt0:af=/etc/print/pxlmono.ppd: \
+    :sd=/var/spool/output/lpd:sf:sh:
