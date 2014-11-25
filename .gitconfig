@@ -1,0 +1,7 @@
+[user]
+	email = wablair@gmail.com
+	name = wablair
+[push]
+	default = simple
+[color]
+	ui = never
