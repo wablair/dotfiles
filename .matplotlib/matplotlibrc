@@ -34,13 +34,13 @@ backend      : agg
 # conflicts, we will automatically try and find a compatible one for
 # you if backend_fallback is True
 #backend_fallback: True
-interactive  : True
-toolbar      : toolbar2   # None | classic | toolbar2
+interactive  : False
+toolbar      : None # None | classic | toolbar2
 timezone     : UTC        # a pytz timezone string, eg US/Central or Europe/Paris
 
 # Where your matplotlib data lives if you installed to a non-default
 # location.  This is where the matplotlib fonts, bitmaps, etc reside
-#datapath : /home/jdhunter/mpldata
+#datapath : 
 
 
 ### LINES
