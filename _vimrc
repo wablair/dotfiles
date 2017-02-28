@@ -1,6 +1,7 @@
 syntax off
 set viminfo=""
 set nobackup
+set noautoindent
 let g:loaded_matchparen=1 
 colorscheme pablo
 autocmd BufRead,BufNewFile *.py
