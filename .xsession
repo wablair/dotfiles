@@ -1,4 +1,5 @@
 /usr/local/bin/sct 3000
+/usr/X11R6/bin/xsetroot -solid gray
 /usr/X11R6/bin/cwm
 xsetroot -solid gray
 export LC_CTYPE="en_US.UTF-8"
